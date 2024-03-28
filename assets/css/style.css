@@ -42,19 +42,19 @@ div.ctn .swiper-button-prev {
   left: 5px;
   top: 45%;
 }
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 1024px) {
   div.ctn .swiper-button-next,
   div.ctn .swiper-button-prev {
     transform: scale(70%);
   }
 }
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 768px) {
   div.ctn .swiper-button-next,
   div.ctn .swiper-button-prev {
     transform: scale(60%);
   }
 }
-@media screen and (max-width: 599px) {
+@media screen and (max-width: 767px) {
   div.ctn .swiper-button-next,
   div.ctn .swiper-button-prev {
     transform: scale(40%);
