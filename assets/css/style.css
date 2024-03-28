@@ -48,7 +48,7 @@ div.ctn .swiper-button-prev {
     transform: scale(70%);
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   div.ctn .swiper-button-next,
   div.ctn .swiper-button-prev {
     transform: scale(60%);
